@@ -3,7 +3,7 @@
  
  ![cardinal](./figures/Domain_Adaptive_Seg.png)
  
-# Our Cooresponding Crack-DA Edge and Depth Map
+# Our Crack-DA Cooresponding Edge and Depth Map
 You can also find the cooresponding data augmentation results, edge detection map, depth prediction map by our **Crack-DA**. Our **Crack-DA** is the **first approaches which make full use of the auxiliary relative low-level depth and edge features to do UDA**. Our approach makes sense for the fact that **the edge and depth features are closely related to semantic features** as indicated below.
 
  ![cardinal](./figures/Domain_Adaptive_Seg_CrackDA.png)
