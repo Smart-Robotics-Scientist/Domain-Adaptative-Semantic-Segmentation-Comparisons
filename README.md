@@ -4,7 +4,7 @@ Comparisons of different domain adaptative semantic segmentation algorithms in t
  
  ![cardinal](./figures/Domain_Adaptive_Seg.png)
  
-# Our Crack-DA Cooresponding Edge and Depth Map
+# Our Crack-DA Cooresponding Edge and Depth Maps
 
 You can also find the corresponding data augmentation results, edge detection map, and depth prediction map by our **Crack-DA**. Our **Crack-DA** is the **first approach that makes full use of the auxiliary relative low-level depth and edge features to do UDA**. Our approach makes sense for the fact that **the edge and depth features are closely related to semantic features** as indicated by our experimental results below.
 
