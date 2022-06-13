@@ -1,5 +1,5 @@
 # Domain-Adaptation-Comparisons
- Comparisons of Various of Domain Adaptative Semantic Segmentation Algorithms in the large-scale domain adaptive semantic segmentation benchmark of **GTA5-to-Cityscapes**. It can be demonstrated that our proposed **Crack-DA** can have better performance than the SOTAs **BA-PA** and **Pro-DA** for both the **large semantic classes** such as the bus and train and the **small semantic classes** such as the pedestrians. The results further demonstrate the effectiveness of depth and edge features in the tasks of domain adaptive semantic segmentation.
+Comparisons of different domain adaptative semantic segmentation algorithms in the large-scale domain adaptive semantic segmentation benchmark of GTA5-to-Cityscapes. It can be demonstrated that our proposed Crack-DA can have better performance than the SOTAs BA-PA and Pro-DA for both the large semantic classes such as the bus and train and the small semantic classes such as the pedestrians. The results further demonstrate the effectiveness of depth and edge features in the tasks of domain adaptive semantic segmentation.
  
  ![cardinal](./figures/Domain_Adaptive_Seg.png)
  
